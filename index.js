@@ -143,7 +143,7 @@ app.post('./gencode',async(req,res)=>{
          let transporter = nodemailer.createTransport({
             service: "gmail", // true for 465, false for other ports
             auth: {
-                user: "test.shorturlapp@gmail.com", // generated ethereal user
+                user: "zomatocloneh@gmail.com", // generated ethereal user
                 pass:'11409196Hs!' // generated ethereal password
             },
         });
